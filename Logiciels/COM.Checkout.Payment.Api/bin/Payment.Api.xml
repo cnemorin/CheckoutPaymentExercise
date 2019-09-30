@@ -146,6 +146,13 @@
             <param name="req"></param>
             <returns></returns>
         </member>
+        <member name="M:COM.Checkout.Payment.Api.Controllers.PaymentController.View(COM.Checkout.Payment.Api.Contract.DTO.MessageRequest.PaymentRequestDTO)">
+            <summary>
+            Payment history
+            </summary>
+            <param name="req"></param>
+            <returns></returns>
+        </member>
         <member name="T:COM.Checkout.Payment.Api.WebApiApplication">
             <summary>
             

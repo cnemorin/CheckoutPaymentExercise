@@ -12,3 +12,9 @@ C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Enti
 C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Entity\obj\Debug\Payment.Entity.csproj.CoreCompileInputs.cache
 C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Entity\obj\Debug\ICTER.ListeDV.Entity.dll
 C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Entity\obj\Debug\ICTER.ListeDV.Entity.pdb
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Entity\bin\Debug\ICTER.ListeDV.Entity.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Entity\bin\Debug\ICTER.ListeDV.Entity.pdb
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Entity\obj\Debug\Payment.Entity.csprojAssemblyReference.cache
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Entity\obj\Debug\Payment.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Entity\obj\Debug\ICTER.ListeDV.Entity.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Entity\obj\Debug\ICTER.ListeDV.Entity.pdb

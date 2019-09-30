@@ -47,7 +47,7 @@ namespace COM.Checkout.Payment.Api.Service.Impl
             HttpResponseMessage httpResponseMessage = new HttpResponseMessage();
             try
             {                
-                return GetPaymentDetails(paymentConfirmationDTO);
+                return GetPaymentConfDetails(paymentConfirmationDTO);
             }
             catch (Exception ex)
             {
@@ -55,6 +55,23 @@ namespace COM.Checkout.Payment.Api.Service.Impl
             }
         }
 
+        /// <summary>
+        /// Retrieve payment info
+        /// </summary>
+        public PaymentRequestDTO ViewTransactionHistory(PaymentRequestDTO paymentDTO)
+        {
+            HttpResponseMessage httpResponseMessage = new HttpResponseMessage();
+            try
+            {
+                return GetTransaction(paymentDTO);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        
         #region API utils
 
         static HttpClient client = new HttpClient();
@@ -71,7 +88,7 @@ namespace COM.Checkout.Payment.Api.Service.Impl
             //return response;
         }
 
-        public PaymentConfirmationRequestDTO GetPaymentDetails(PaymentConfirmationRequestDTO paymentConfirmation)
+        public PaymentConfirmationRequestDTO GetPaymentConfDetails(PaymentConfirmationRequestDTO paymentConfirmation)
         {
             PaymentConfirmationRequestDTO paymentConf = webApiHttpClient.RequestPost<PaymentConfirmationRequestDTO, PaymentConfirmationRequestDTO>("/BankPayment/Confirm", paymentConfirmation); //Authentication not added due to time constraint
             
@@ -83,6 +100,19 @@ namespace COM.Checkout.Payment.Api.Service.Impl
             //}
             return paymentConf;
         }
+
+        public PaymentRequestDTO GetTransaction(PaymentRequestDTO paymentDTO)
+        {
+            //HttpResponseMessage response = await client.PostAsJsonAsync("BankPayment/Payment", paymentDTO);
+
+            PaymentRequestDTO payment = webApiHttpClient.RequestPost<PaymentRequestDTO, PaymentRequestDTO>("/BankPayment/View", paymentDTO); //Authentication not added due to time constraint
+
+            return payment;
+
+            //response.EnsureSuccessStatusCode();            
+            //return response;
+        }
+
 
         private static WebApiHttpClient webApiHttpClient = null;
 

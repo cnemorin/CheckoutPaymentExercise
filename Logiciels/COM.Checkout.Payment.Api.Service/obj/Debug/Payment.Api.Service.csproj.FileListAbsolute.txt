@@ -115,3 +115,30 @@ C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Api.
 C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\Payment.Api.Service.csproj.CopyComplete
 C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\ICTER.ListeDV.Api.Service.dll
 C:\Users\CBCLARA\source\repos\PaymentGateway\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\ICTER.ListeDV.Api.Service.pdb
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\ICTER.ListeDV.Api.Service.dll.config
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\ICTER.ListeDV.Api.Service.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\ICTER.ListeDV.Api.Service.pdb
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\Framework.Database.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\ICTER.ListeDV.Entity.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\log4net.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\Payment.Api.Contract.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\System.Web.Http.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\System.Web.Http.Tracing.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\TinyMapper.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\Payment.Api.Contract.pdb
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\ICTER.ListeDV.Entity.pdb
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\log4net.xml
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\System.Web.Http.xml
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\System.Web.Http.Tracing.xml
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\fr\System.Web.Http.resources.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\bin\Debug\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\Payment.Api.Service.csprojAssemblyReference.cache
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\Payment.Api.Service.csproj.CoreCompileInputs.cache
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\Payment.Api.Service.csproj.CopyComplete
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\ICTER.ListeDV.Api.Service.dll
+C:\Users\Julie Nemorin\source\repos\cnemorin\CheckoutPaymentExercise\Logiciels\COM.Checkout.Payment.Api.Service\obj\Debug\ICTER.ListeDV.Api.Service.pdb

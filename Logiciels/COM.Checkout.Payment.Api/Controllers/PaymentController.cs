@@ -66,13 +66,38 @@ namespace COM.Checkout.Payment.Api.Controllers
 
             try
             {
-                paymentConfirmation = _paymentServices.GetPaymentDetails(req);
+                paymentConfirmation = _paymentServices.GetPaymentConfDetails(req);
             }
             catch (Exception ex)
             {
                 throw ex;
             }
             return Ok(paymentConfirmation);
+        }
+
+
+        /// <summary>
+        /// Payment history
+        /// </summary>
+        /// <param name="req"></param>
+        /// <returns></returns>
+        [HttpPost]
+        [Route("OnlinePayment/View")]
+        [ResponseType(typeof(PaymentRequestDTO))]
+        public IHttpActionResult View([FromBody] PaymentRequestDTO req)
+        {
+            HttpResponseMessage response = new HttpResponseMessage();
+            PaymentRequestDTO paymentRequest = null;
+            try
+            {
+                paymentRequest = _paymentServices.ViewTransactionHistory(req);
+            }
+            catch (Exception ex)
+            {
+                response.StatusCode = HttpStatusCode.InternalServerError;
+                response.Content = new StringContent(ex.Message);
+            }
+            return Ok(paymentRequest);
         }
     }
 }

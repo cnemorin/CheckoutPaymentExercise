@@ -15,8 +15,13 @@ namespace COM.Checkout.Payment.Api.Service
         PaymentRequestDTO DoPayment(PaymentRequestDTO paymentDTO);
 
         /// <summary>
+        /// View past card transactions
+        /// </summary>
+        PaymentRequestDTO ViewTransactionHistory(PaymentRequestDTO paymentDTO);
+
+        /// <summary>
         /// Retrieve payment info
         /// </summary>
-        PaymentConfirmationRequestDTO GetPaymentDetails(PaymentConfirmationRequestDTO paymentConfirmation);
+        PaymentConfirmationRequestDTO GetPaymentConfDetails(PaymentConfirmationRequestDTO paymentConfirmation);
     }
 }
